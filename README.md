@@ -1,6 +1,6 @@
 # Paper2Video
 
-Summarize research papers and pdf books into YouTube shorts videos.
+Summarize research papers and pdf books into YouTube shorts videos in Korean.
 
 1. Attention Is All You Need (Transformer)
 
